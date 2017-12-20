@@ -2,7 +2,7 @@ Answer Set Programming for the Bus Driver Scheduling Problem - Encoding:
 ================================================================
 
 
-To test the provided encoding using the ASP solver Clingo [1], use 
+To test the provided encoding using the ASP solver Clingo [1], please use 
 the following example call which was tested for Clingo 4.4.0:
 
 clingo .\bus.lp .\Instances\c1.lp --opt-strategy=usc,3 --configuration=tweety
