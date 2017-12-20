@@ -27,6 +27,6 @@ http://www.csplib.org/Problems/prob022/data/data.zip
 They converted to ASP format using the script convertData.py. 
 Format to run it:
 python convertData.py <address to the source data files>  <address to the destination ASP compatible format files>
-For convenience all converted data instance files are placed n the Instances folder.
+For convenience all converted data instance files are placed in the Instances folder.
 ----------------------------------------------------------------
 
