@@ -7,7 +7,7 @@ paradigm that has been successfully applied to many different domains. Recently,
 ASP has also proved successful for hard optimization problems like course
 timetabling. In this paper, we approach another important task, namely, the shift
 design problem, aiming at an alignment of a minimum number of shifts in order
-to meet required numbers of employees (which typically vary for dierent time
+to meet required numbers of employees (which typically vary for different time
 periods) in such a way that over- and understanding is minimized. We provide an
 ASP encoding of the shift design problem, which, to the best of our knowledge,
 has not been addressed by ASP yet. Our experimental results demonstrate that
